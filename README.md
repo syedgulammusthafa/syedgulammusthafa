@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @syedgulammusthafa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Python Developer | Web Scraping & Automation | Learning AI, LLMs & Agents
 
-<!---
-syedgulammusthafa/syedgulammusthafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Skilled in Python, APIs, Web Crawling, Selenium/Playwright, BeautifulSoup
+
+📌 Exploring AI — LLMs, Agentic AI, Generative AI
+
+🚀 Building projects to strengthen backend & automation skills
+
+💼 Open to opportunities in Python Development
+
+📫 Reach me: syedgulammusthafai@gmail.com
