@@ -1,5 +1,6 @@
-Syed Gulam Musthafa
-Python Developer | Backend & Automation | AI Learner
+# Syed Gulam Musthafa  
+### Python Developer | Backend Engineering | Automation | AI & LLMs Enthusiast  
+
 I’m a Python developer focused on backend engineering, automation, and intelligent tools. Currently expanding my skills in AI, LLMs, and agentic systems to build scalable, real-world solutions.
 
 🔧 Core Competencies
